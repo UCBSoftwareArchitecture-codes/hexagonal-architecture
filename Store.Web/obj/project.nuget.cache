@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PksNA18Kpta1kptenv/ly2iqhc16RcehWS9/nlrr4fO3Uto+oG5FzkwVYK78S1mMHMrouR65/C5vNHsUJQVZ/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo.sangueza\\Documents\\GitProjects\\hexagonal-architecture\\Store.Web\\Store.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

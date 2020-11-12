@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XwbE97bv5snV4QLqrJS2BRUV1I5EIfU+tKvW1y7ZdTmTaRwUUJV2zY7Hpkeet9GNAqG9rodVgFLb/aU9KqJ+Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo.sangueza\\Documents\\GitProjects\\hexagonal-architecture\\Store.PrintService\\Store.PrintService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
